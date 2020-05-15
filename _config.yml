@@ -1,0 +1,30 @@
+title: Gilbert's Blog
+description: GilbertHG
+
+url: https://gilberthg.github.io/
+baseurl: ""
+paginate_path: "blog/page:num/"
+permalink: blog/:year/:month/:day/:title/
+
+markdown: kramdown
+highlighter: rouge
+plugins: [jekyll-paginate]
+paginate: 5
+
+navigation:
+  - title: Home
+    url: /
+  - title: About
+    url: /about
+  - title: Contact
+    url: /contact
+  - title: Search
+    url: /search
+
+social:
+    github: GilbertHG
+    stackoverflow: 11585477/gilberthg
+    email: gilbertgoes11@gmail.com
+    linkedin: gilbert-goes-38934a132
+
+google_analytics: "UA-58263416-1"
