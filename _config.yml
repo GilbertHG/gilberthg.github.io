@@ -1,7 +1,7 @@
 title: Gilbert's Blog
 description: GilbertHG
 
-url: https://gilberthg.github.io/
+url: https://gilbert.github.io/
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:year/:month/:day/:title/
